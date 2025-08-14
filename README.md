@@ -8,7 +8,7 @@ It can be easily adapted to showcase personal information, projects, blogs, and 
 ## Live Demo
 
 You can view a live demo of the portfolio here:  
-[Live Demo Link](https://your-live-demo-link.com)
+[Live Demo Link](https://shorookkhaled559.github.io/Portfolio/)
 
 ---
 
